@@ -22,16 +22,15 @@ This project explores how clustering algorithms can uncover natural groupings of
 
 ### ⚙️ Methodology
 
-The project follows a complete machine learning workflow:
+The project follows a standard unsupervised learning pipeline:
 
 1. Data Cleaning & Preprocessing
 2. Exploratory Data Analysis (EDA)
-3. Feature Engineering
-4. Feature Scaling
-5. Clustering Analysis
-6. Cluster Evaluation
-7. Playlist Recommendation Logic
-8. Visualization & Interpretation
+3. Feature Scaling
+4. Dimensionality Reduction (PCA)
+5. Optimal Cluster Selection (Elbow Method, Explained Variance)
+6. K-Means Clustering
+7. Cluster Visualization & Interpretation
 
 ### 🛠️ Technologies
 
