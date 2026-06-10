@@ -24,13 +24,13 @@ This project explores how clustering algorithms can uncover natural groupings of
 
 The project follows a standard unsupervised learning pipeline:
 
-1. Data Cleaning & Preprocessing
-2. Exploratory Data Analysis (EDA)
-3. Feature Scaling
-4. Dimensionality Reduction (PCA)
-5. Optimal Cluster Selection (Elbow Method, Explained Variance)
-6. K-Means Clustering
-7. Cluster Visualization & Interpretation
+* Data Cleaning & Preprocessing
+* Exploratory Data Analysis (EDA)
+* Feature Scaling
+* Dimensionality Reduction (PCA)
+* Optimal Cluster Selection (Elbow Method, Explained Variance)
+* K-Means Clustering
+* Cluster Visualization & Interpretation
 
 ### 🛠️ Technologies
 
